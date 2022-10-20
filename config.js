@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
+    titleWeb: "Chúc ai kia 20/10 dui dẽ",
+    introTitle: 'Ma Thị Mộng Chii :)',
+    introDesc: `Tại sao trái đất có 7 tỉ người mà t có đứa bạn như mi nhở. Thiệt là, mà ngó lại bạn cũng "dỡ thương" á chớ, còn học giỏi nữa.Tính ra cũng tài sắc vẹn toàn :>`,
+    btnIntro: '^^Hahaa^^',
+    title: 'Nhân dịp 20/10 chúc bạn machi buồnnt nhee <3',
+    desc: 'Bữa nay làm cái web này á tặng bạn trước cho đúng bữa,còn quà thì thứ 7 tặng nhaaa ',
+    btnYes: 'Đúng là bạn tuii, yeuu',
+    btnNo: 'M nghĩ t thèm á ',
+    question: 'Bạn muốn tui tặng cái gì á?',
+    btnReply: 'send to dthan',
+    reply: 'Móc chìa khóa xinh xẻo á :)',
+    mess: 'Bạn mình đưa quà là phải nhận á nhen< kh nhận dả mỏ :l',
+    messDesc: 'Mặc dù cái web này tui không tự codee được nhma tuii có tấm lòng asaaaa :>',
+    btnAccept: 'cảm ơn bạn mình đi chời, nà nọ dô.',
+    messLink: 'https://www.facebook.com/messages/t/100056675036840' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
